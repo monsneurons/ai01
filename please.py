@@ -1,1 +1,1 @@
-please
+print(please)

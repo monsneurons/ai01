@@ -1,1 +1,1 @@
-hello geeksalon
+print(hello geeksalon)
