@@ -1,1 +1,1 @@
-see ya later
+print(see ya later)

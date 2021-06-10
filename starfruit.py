@@ -1,1 +1,1 @@
-starfruits are delicious
+print(starfruits are delicious)

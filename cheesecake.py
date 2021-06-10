@@ -1,1 +1,1 @@
-i love cheesecake
+print(i love cheesecake)
